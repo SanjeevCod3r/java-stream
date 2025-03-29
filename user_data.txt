@@ -1,0 +1,12 @@
+Name: Sanjeev Jaiswal
+Age: 24
+Favorite Language: Java
+
+Name: Anshika
+Age: 21
+Favorite Language: c++
+
+Name: Hello World
+Age: 11
+Favorite Language: python
+
